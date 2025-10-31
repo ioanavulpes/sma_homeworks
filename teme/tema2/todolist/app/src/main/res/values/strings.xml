@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="edit_todo">Edit Todo</string>
+    <string name="todo_title">Title</string>
+    <string name="todo_description">Description (optional)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="no_todos">No todos yet. Add one!</string>
+    <string name="enter_todo_title">Enter todo title</string>
+</resources>

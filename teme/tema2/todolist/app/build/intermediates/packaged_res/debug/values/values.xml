@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_todo">Add Todo</string>
+    <string name="app_name">Todo List</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit_todo">Edit Todo</string>
+    <string name="enter_todo_title">Enter todo title</string>
+    <string name="no_todos">No todos yet. Add one!</string>
+    <string name="save">Save</string>
+    <string name="todo_description">Description (optional)</string>
+    <string name="todo_title">Title</string>
+    <style name="Base.Theme.TodoList" parent="Theme.Material3.DayNight">
+        
+        
+    </style>
+    <style name="Theme.TodoList" parent="Base.Theme.TodoList"/>
+</resources>
